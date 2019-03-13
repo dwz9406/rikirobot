@@ -1,0 +1,8 @@
+prefix=/home/riki/catkin_ws/devel
+
+Name: imu_calib
+Description: Description of imu_calib
+Version: 0.0.0
+Cflags: -I/home/riki/catkin_ws/src/rikirobot_project/imu_calib/include -I/usr/include/eigen3
+Libs: -L/home/riki/catkin_ws/devel/lib -laccel_calib
+Requires: cmake_modules roscpp sensor_msgs riki_msgs

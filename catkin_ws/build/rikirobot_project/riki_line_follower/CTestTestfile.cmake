@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/riki/catkin_ws/src/rikirobot_project/riki_line_follower
+# Build directory: /home/riki/catkin_ws/build/rikirobot_project/riki_line_follower
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_riki_line_follower_rostest_test_test_detect.launch "/home/riki/catkin_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/riki/catkin_ws/build/test_results/riki_line_follower/rostest-test_test_detect.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/riki/catkin_ws/src/rikirobot_project/riki_line_follower --package=riki_line_follower --results-filename test_test_detect.xml --results-base-dir \"/home/riki/catkin_ws/build/test_results\" /home/riki/catkin_ws/src/rikirobot_project/riki_line_follower/test/test_detect.launch ")
+add_test(_ctest_riki_line_follower_rostest_test_test_navig.launch "/home/riki/catkin_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/riki/catkin_ws/build/test_results/riki_line_follower/rostest-test_test_navig.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/riki/catkin_ws/src/rikirobot_project/riki_line_follower --package=riki_line_follower --results-filename test_test_navig.xml --results-base-dir \"/home/riki/catkin_ws/build/test_results\" /home/riki/catkin_ws/src/rikirobot_project/riki_line_follower/test/test_navig.launch ")

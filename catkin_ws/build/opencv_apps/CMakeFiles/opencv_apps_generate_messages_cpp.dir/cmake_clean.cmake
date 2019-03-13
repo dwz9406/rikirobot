@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/opencv_apps_generate_messages_cpp"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Point2DArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Moment.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/FlowStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/MomentArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/ContourArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/RectArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/RotatedRectStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/FaceArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Line.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/LineArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/LineArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Size.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/RotatedRect.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Face.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Point2DArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Circle.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Point2D.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/RectArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/ContourArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/FlowArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Flow.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Point2DStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/RotatedRectArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/CircleArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Rect.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/FlowArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/Contour.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/CircleArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/MomentArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/RotatedRectArray.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/FaceArrayStamped.h"
+  "/home/riki/catkin_ws/devel/include/opencv_apps/FaceRecognitionTrain.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/opencv_apps_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

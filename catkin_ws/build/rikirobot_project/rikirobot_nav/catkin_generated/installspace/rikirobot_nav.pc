@@ -1,0 +1,8 @@
+prefix=/home/riki/catkin_ws/install
+
+Name: rikirobot_nav
+Description: Description of rikirobot_nav
+Version: 0.0.0
+Cflags: -I/home/riki/catkin_ws/install/include
+Libs: -L/home/riki/catkin_ws/install/lib 
+Requires: dynamic_reconfigure

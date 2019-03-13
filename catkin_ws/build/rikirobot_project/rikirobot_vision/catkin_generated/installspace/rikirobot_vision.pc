@@ -1,0 +1,8 @@
+prefix=/home/riki/catkin_ws/install
+
+Name: rikirobot_vision
+Description: Description of rikirobot_vision
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/riki/catkin_ws/install/lib 
+Requires: 
